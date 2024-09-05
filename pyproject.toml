@@ -2,7 +2,7 @@
 name = "assembly-ai-transcription-poc"
 version = "0.1.0"
 description = "Used to test the transcription capabilities of AssemblyAI"
-authors = ["DJ Spatoulas <dj@ally.security>"]
+authors = ["DJ Spatoulas <dspatoulas21@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -19,4 +19,3 @@ isort = "^5.13.2"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-
